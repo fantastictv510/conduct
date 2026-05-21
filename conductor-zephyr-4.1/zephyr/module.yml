@@ -1,5 +1,0 @@
-build:
-  cmake-ext: true
-  kconfig: Kconfig
-  settings:
-    board_root: .

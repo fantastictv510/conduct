@@ -1,6 +1,0 @@
-name: zmk-feature-charge-indicator
-build:
-  cmake: .
-  kconfig: Kconfig
-  settings:
-    dts_root: .
